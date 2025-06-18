@@ -1,4 +1,4 @@
-🧑‍💻 RAIFU – Sistema de Apoio Educacional para Jovens de Comunidades
+#🧑‍💻 RAIFU – Sistema de Apoio Educacional para Jovens de Comunidades
 Projeto desenvolvido para a disciplina de Desenvolvimento de Sistemas da Universidade São Judas, apresentado em junho de 2025, com avaliação dos professores Edcleissson e Renato.
 
 🌍 Propósito do Projeto
