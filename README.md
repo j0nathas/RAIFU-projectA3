@@ -86,3 +86,7 @@ Mais do que um exercício técnico, o RAIFU representa minha visão de como a te
 
 ## 🖼️ Guia Visual do Sistema
 
+### Tela Inicial do SIstema
+
+![Tela de Login](Apresentação%20do%20sistema%20-%20github/Tela%20Inicial.png)
+
