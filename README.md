@@ -91,39 +91,50 @@ Mais do que um exercício técnico, o RAIFU representa minha visão de como a te
 ![TelaInicial](ImagensDoSistema/TelaInicial.png)
 
 ### 👤 Tela de Login (Usuário)
+
 ![LoginUsuario](ImagensDoSistema/LoginUsuario.png)
 
 ### 📝 Tela de Cadastro (Usuário)
 ![TelaCadastro](ImagensDoSistema/TelaCadastro.png)
 
 ### 🏡 Tela Inicial (Usuário)
+
 ![InicialUsuario](ImagensDoSistema/InicialUsuarios.png)
 
 ### 🔄 Alterar Dados (Usuário e Funcionário)
+
 ![AlterarDados](ImagensDoSistema/AlterarDados.png)
 
 ### 📂 Formulários (Usuário)
+
 ![FormulariosUsuario](ImagensDoSistema/FormulariosUsuarios.png)
 
 ### 🤝 Apoiados e Visualização de Formulário (Usuário)
+
 ![ApoiadosUsuarios](ImagensDoSistema/ApoiadosUsuario.png)
 
 ### 🔐 Tela de Login (Funcionário)
+
 ![LoginFuncionario](ImagensDoSistema/LoginFuncionario.png)
 
 ### 🏠 Tela Inicial (Funcionário)
+
 ![InicialFuncionario](ImagensDoSistema/InicialFuncionario.png)
 
 ### 👥 Gerenciamento de Usuários (Funcionário)
+
 ![GerenciamentoUsuarios](ImagensDoSistema/GerenciamentoDeUsuarios.png)
 
 ### ✉️ Envio de Formulário
+
 ![EnvioFormulario](ImagensDoSistema/EnvioFormulario.png)
 
 ### 📋 Gerenciamento de Formulários (Funcionário)
+
 ![GerenciamentoFormularios](ImagensDoSistema/GerenciamentoFormularios.png)
 
 ### ✏️ Alterar Formulário (Funcionário)
+
 ![AlterarFormulario](ImagensDoSistema/AlterarFormulario.png)
 
 
