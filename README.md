@@ -84,9 +84,48 @@ Este projeto me permitiu aplicar na prática os conhecimentos adquiridos em Java
 Mais do que um exercício técnico, o RAIFU representa minha visão de como a tecnologia pode ser usada como instrumento de transformação e inclusão social.
 
 
-## 🖼️ Guia Visual do Sistema
+# 🖼️ Guia Visual do Sistema
 
-### Tela Inicial do SIstema
+## 🏠 Tela Inicial do SIstema
 
-![Tela de Login](Apresentação%20do%20sistema%20-%20github/Tela%20Inicial.png)
+![TelaInicial](ImagensDoSistema/TelaInicial.png)
+
+### 👤 Tela de Login (Usuário)
+![LoginUsuario](ImagensDoSistema/LoginUsuario.png)
+
+### 📝 Tela de Cadastro (Usuário)
+![TelaCadastro](ImagensDoSistema/TelaCadastro.png)
+
+### 🏡 Tela Inicial (Usuário)
+![InicialUsuario](ImagensDoSistema/InicialUsuario.png)
+
+### 🔄 Alterar Dados (Usuário e Funcionário)
+![AlterarDados](ImagensDoSistema/AlterarDados.png)
+
+### 📂 Formulários (Usuário)
+![FormulariosUsuario](ImagensDoSistema/FormulariosUsuarios.png)
+
+### 🤝 Apoiados e Visualização de Formulário (Usuário)
+![ApoiadosUsuarios](ImagensDoSistema/ApoiadosUsuarios.png)
+
+### 🔐 Tela de Login (Funcionário)
+![LoginFuncionario](ImagensDoSistema/LoginFuncionario.png)
+
+### 🏠 Tela Inicial (Funcionário)
+![InicialFuncionario](ImagensDoSistema/InicialFuncionario.png)
+
+### 👥 Gerenciamento de Usuários (Funcionário)
+![GerenciamentoUsuarios](ImagensDoSistema/GerenciamentoUsuarios.png)
+
+### ✉️ Envio de Formulário
+![EnvioFormulario](ImagensDoSistema/EnvioFormulario.png)
+
+### 📋 Gerenciamento de Formulários (Funcionário)
+![GerenciamentoFormularios](ImagensDoSistema/GerenciamentoFormularios.png)
+
+### ✏️ Alterar Formulário (Funcionário)
+![AlterarFormulario](ImagensDoSistema/AlterarFormulario.png)
+
+
+
 
