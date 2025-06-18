@@ -97,7 +97,7 @@ Mais do que um exercício técnico, o RAIFU representa minha visão de como a te
 ![TelaCadastro](ImagensDoSistema/TelaCadastro.png)
 
 ### 🏡 Tela Inicial (Usuário)
-![InicialUsuario](ImagensDoSistema/InicialUsuario.png)
+![InicialUsuario](ImagensDoSistema/InicialUsuarios.png)
 
 ### 🔄 Alterar Dados (Usuário e Funcionário)
 ![AlterarDados](ImagensDoSistema/AlterarDados.png)
@@ -106,7 +106,7 @@ Mais do que um exercício técnico, o RAIFU representa minha visão de como a te
 ![FormulariosUsuario](ImagensDoSistema/FormulariosUsuarios.png)
 
 ### 🤝 Apoiados e Visualização de Formulário (Usuário)
-![ApoiadosUsuarios](ImagensDoSistema/ApoiadosUsuarios.png)
+![ApoiadosUsuarios](ImagensDoSistema/ApoiadosUsuario.png)
 
 ### 🔐 Tela de Login (Funcionário)
 ![LoginFuncionario](ImagensDoSistema/LoginFuncionario.png)
@@ -115,7 +115,7 @@ Mais do que um exercício técnico, o RAIFU representa minha visão de como a te
 ![InicialFuncionario](ImagensDoSistema/InicialFuncionario.png)
 
 ### 👥 Gerenciamento de Usuários (Funcionário)
-![GerenciamentoUsuarios](ImagensDoSistema/GerenciamentoUsuarios.png)
+![GerenciamentoUsuarios](ImagensDoSistema/GerenciamentoDeUsuarios.png)
 
 ### ✉️ Envio de Formulário
 ![EnvioFormulario](ImagensDoSistema/EnvioFormulario.png)
